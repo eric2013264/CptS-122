@@ -1,0 +1,13 @@
+﻿  gamePlay.cpp
+gamePlay.cpp(267): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+gamePlay.cpp(301): warning C4018: '<' : signed/unsigned mismatch
+gamePlay.cpp(317): warning C4018: '<' : signed/unsigned mismatch
+gamePlay.cpp(517): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+gamePlay.cpp(518): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+gamePlay.cpp(593): warning C4018: '<' : signed/unsigned mismatch
+gamePlay.cpp(607): warning C4018: '<' : signed/unsigned mismatch
+gamePlay.cpp(618): warning C4018: '<' : signed/unsigned mismatch
+gamePlay.cpp(631): warning C4018: '<' : signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  PA_8.vcxproj -> C:\Users\Carno\Desktop\asteroids\PA_8\Release\PA_8.exe
